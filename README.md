@@ -1,3 +1,3 @@
 # polkadot-selendra
 
-run: npm index.js
+run: node index.js
